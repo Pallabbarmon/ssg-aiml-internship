@@ -1,6 +1,6 @@
 # --- Variables ---
 name = "Pallab"
-age = 22
+age = 25
 is_student = False
 
 print(name)

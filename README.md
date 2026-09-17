@@ -1,1 +1,1 @@
-# ssg-aiml-internship
+# Task 1.1 - Python Fundamentals

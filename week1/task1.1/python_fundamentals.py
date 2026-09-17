@@ -8,7 +8,12 @@ print(age)
 print(is_student)
 
 # --- Loops ---
-s = 0
-for i in range(1, 6):
-    s += i
+s = sum(range(1, 6))
 print("Sum of the first 5 natural numbers:", s)
+
+# --- Functions ---
+def greet(name):
+    return f"Hello, {name}!"
+
+message = greet("Pallob")
+print(message)
